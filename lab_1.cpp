@@ -7,14 +7,14 @@ int main() {
 
 //Print the few astricks (***). Try to make some pattern?
 
-cout<<"************";
-cout<<"**********";
-cout<<"********";
-cout<<"******";
-cout<<"****";
-cout<<"***";
-cout<<"**";
-cout<<"*";                           
+cout<<"************\n";
+cout<<"**********\n";
+cout<<"********\n";
+cout<<"******\n";
+cout<<"****\n";
+cout<<"***\n";
+cout<<"**\n";
+cout<<"*\n";                             
 
 
                                               //Question no 2
